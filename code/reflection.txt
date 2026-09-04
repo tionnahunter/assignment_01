@@ -1,10 +1,10 @@
 Reflection:
 Throughout this module, I started to understand the importance of
-function decompostion, even though it's still somewhat 
-challenging. I haven't taken a python corse
+function decomposition, even though it's still somewhat 
+challenging. I haven't taken a Python course
 in a while, so this helped jug my memory on unit (direct function calls) 
 and integration testing (interface). I struggle most with writting 
 code on my own and remebering the steps to debugging, such as where
 I should be setting my breakpoint. Overall, I would like more practice
-on recording where a breakpoint helped, coding without help,
+on recording where a breakpoint helped, like in split_evenly, coding without help,
 and tracing a failing test.
