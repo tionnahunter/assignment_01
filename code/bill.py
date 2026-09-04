@@ -29,8 +29,7 @@ def grand_total(subtotal, pct):
     >>> grand_total(50, 20)
     60.0
     """
-    #return tip_amount(subtotal,pct)
-    return round(subtotal + tip_amount(subtotal, pct),2)
+    return round(subtotal + tip_amount(subtotal, pct), 2)
 
 
 def split_evenly(total, people):
@@ -43,7 +42,7 @@ def split_evenly(total, people):
     """
     if people <= 0:
         raise ValueError("people must be greater than 0")
-    return round(total/people,2)
+    return round(total / people, 2)
 
 
 def is_generous(pct):
