@@ -1,9 +1,5 @@
-Write your reflection here.
-
-See reflection.md for what makes a good reflection — be specific, use the
-terminology from class, and make it actionable.
-
-This assignment was pretty easy. 
-I learned some Python and made the tip calculator work. 
-The tests were kind of annoying but I got them to pass. 
-I don't really have any questions.
+Reflection:
+I'm starting to learn the basics of function decompostion, 
+even though it's still somewhat challenging. I haven't taking a python corse
+in a while, so this helped jug my memory on unit and integration testing.
+I struggle most with writting code on my own and remebering the steps to debugging.
