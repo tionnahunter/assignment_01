@@ -3,3 +3,5 @@ I'm starting to learn the basics of function decompostion,
 even though it's still somewhat challenging. I haven't taking a python corse
 in a while, so this helped jug my memory on unit and integration testing.
 I struggle most with writting code on my own and remebering the steps to debugging.
+Sidenot: I'm starting to recall is how even after one small change,
+an entire code could easily fail.
