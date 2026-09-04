@@ -6,4 +6,5 @@ in a while, so this helped jug my memory on unit (direct function calls)
 and integration testing (interface). I struggle most with writting 
 code on my own and remebering the steps to debugging.
 Also, with debugging, I'm not sure where I should be setting my breakpoint
-to. I just need more practice on everything.
+to. In general, I would like more practice on recording where a breakpoint helped
+and tracing a failing test.
